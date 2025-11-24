@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robin-peschl
-- 👀 I’m interested in too many things
+- 👀 I’m interested in many things
 - 🌱 I’m currently studying: B. Sc. Computer Science
 - 📫 How to reach me: https://robin.peschl.xyz/
 - 😄 Pronouns: he / him

@@ -36,54 +36,64 @@
 
 ## Where I work
 
-<table>
+<table width="100%" cellpadding="24">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://petuja.net/">
-        <picture>
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="./assets/petuja-systems-dark.svg"
-          />
-          <source
-            media="(prefers-color-scheme: light)"
-            srcset="./assets/petuja-systems-light.svg"
-          />
-          <img
-            src="./assets/petuja-systems-light.svg"
-            alt="petuja Systems"
-            height="64"
-          />
-        </picture>
-      </a>
+    <td align="center" width="50%" nowrap>
+      <strong>petuja&nbsp;Systems</strong>
       <br /><br />
-      <strong>Founder of petuja Systems</strong>
-      <br />
-      Software, digital services and infrastructure
-    </td>
-    <td align="center" width="50%">
-      <a href="https://fullsize.events/">
-        <picture>
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="./assets/fullsize-events-dark.svg"
-          />
-          <source
-            media="(prefers-color-scheme: light)"
-            srcset="./assets/fullsize-events-light.svg"
-          />
-          <img
-            src="./assets/fullsize-events-light.svg"
-            alt="Fullsize Events"
-            height="64"
-          />
-        </picture>
-      </a>
-      <br /><br />
-      <strong>Founder of Fullsize Events</strong>
-      <br />
-      Software, websites and IT systems
-    </td>
+
+  <a href="https://petuja.net/">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="./assets/petuja-systems-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="./assets/petuja-systems-light.svg"
+      />
+      <img
+        src="./assets/petuja-systems-light.svg"
+        alt="petuja Systems"
+        height="80"
+      />
+    </picture>
+  </a>
+
+  <br /><br />
+  <strong>Co-Founder</strong>
+  <br /><br />
+  IT-Services
+</td>
+
+<td align="center" width="50%" nowrap>
+  <strong>Fullsize&nbsp;Events</strong>
+  <br /><br />
+
+  <a href="https://fullsize.events/">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="./assets/fullsize-events-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="./assets/fullsize-events-light.svg"
+      />
+      <img
+        src="./assets/fullsize-events-light.svg"
+        alt="Fullsize Events"
+        height="80"
+      />
+    </picture>
+  </a>
+
+  <br /><br />
+  <strong>Co-Founder</strong>
+  <br /><br />
+  Event-Technologies
+</td>
+
   </tr>
 </table>
 
